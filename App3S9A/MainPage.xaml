@@ -10,7 +10,7 @@
         <Entry x:Name="txtUsuario" Placeholder="ingrese su usuario"/>
         <Entry x:Name="txtPassword" Placeholder="Ingrese su clave" IsPassword="true" />
 
-        <Button x:Name="View2" Text="Ventana 2" Clicked="View2_Clicked"/>
+        <Button x:Name="View2" Text="Ventana 2 datos" Clicked="View2_Clicked"/>
     </StackLayout>
 
 </ContentPage>

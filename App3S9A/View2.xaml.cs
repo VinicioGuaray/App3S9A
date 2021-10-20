@@ -16,6 +16,7 @@ namespace App3S9A
         public View2(string usuario,string clave)
         {
             InitializeComponent();
+            //pasamos las variables a los label
             lblUsuario.Text = usuario;
             lblClave.Text = clave;
             txtUsuario.Text = usuario;
